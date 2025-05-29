@@ -1,5 +1,5 @@
 # Pruebas_Entornos
-## Tortilla de Patatas (por [Tu Nombre])
+## Tortilla de Patatas (por [Aliaa])
 
 ### Ingredientes
 - 4 huevos  
@@ -16,3 +16,4 @@
 5. Mezcla todo y cuaja en una sartén por ambos lados.  
 
 ¡Buen provecho!
+
